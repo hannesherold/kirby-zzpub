@@ -1,0 +1,15 @@
+{
+    "name": "hherold/zzpub",
+    "description": "Simple Kirby 3 Plugin to auto-publish pages with optional parent page.",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hannes Herold",
+            "email": "info@hherold.de"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
