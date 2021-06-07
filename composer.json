@@ -1,5 +1,5 @@
 {
-    "name": "hherold/zzpub",
+    "name": "hherold/kirby-zzpub",
     "description": "Simple Kirby 3 Plugin to auto-publish pages with optional parent page.",
     "type": "kirby-plugin",
     "license": "MIT",
@@ -11,5 +11,8 @@
     ],
     "require": {
         "getkirby/composer-installer": "^1.1"
+    },
+    "extra": {
+        "installer-name": "zzpub"
     }
 }

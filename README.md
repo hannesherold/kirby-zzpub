@@ -1,4 +1,4 @@
-# zzpub
+# Kirby zzpub plugin
 
 Simple Kirby 3 Plugin to auto-publish pages with optional parent page.
 
