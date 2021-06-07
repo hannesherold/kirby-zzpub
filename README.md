@@ -2,9 +2,7 @@
 
 Simple Kirby 3 Plugin to auto-publish pages with optional parent page.
 
-
-
-## Why?
+### Why?
 
 My use case is a website project with a database-like content section. The data-base consists of all child pages and their children that are stored in the folder „database“. Only these pages should be auto-published on creation (and duplication). This is why the plugin introduces a `parent` option.
 
@@ -28,7 +26,7 @@ git submodule add https://github.com/hannesherold/zzpub.git site/plugins/zzpub
 composer require hherold/zzpub
 ```
 
-
+<br>
 
 ## Options
 
@@ -59,7 +57,7 @@ Sets the status pof the auto-published page. Available options:
 `unlisted`
 `listed`
 
-
+<br>
 
 ## Hooks
 
@@ -68,13 +66,13 @@ The plugin listens to these Kirby hooks:
 `page.create:after`
 `page.duplicate:after`
 
-
+<br>
 
 ## License
 
 MIT
 
-
+<br>
 
 ## Trivia
 
