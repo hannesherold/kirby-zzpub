@@ -53,7 +53,9 @@ _Be careful_ if you change the actual slug of the parent-page! Then you need to 
 ___status___
 <br>
 Sets the status pof the auto-published page. Available options:
+<br>
 `unlisted`
+<br>
 `listed`
 
 <br>
