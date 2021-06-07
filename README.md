@@ -8,7 +8,7 @@ Simple Kirby 3 Plugin to auto-publish pages with optional parent page.
 
 My use case is a website project with a database-like content section. The data-base consists of all child pages and their children that are stored in the folder „database“. Only these pages should be auto-published on creation (and duplication). This is why the plugin introduces a `parent` option.
 
-
+<br>
 
 ## Installation
 
