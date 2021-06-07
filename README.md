@@ -41,18 +41,14 @@ Use the following options in your `config.php`:
 ]
 ```
 
-
-
-#### `autoPublish`
-
+___autoPublish___
 enables/disables the plugin
 
-#### `parent`
+___parent___
 Use `parent` if you want to restrict auto-publish function to children of a specific parent. The option expects the slug of the parent.
+_Be careful_ if you change the actual slug of the parent-page! Then you need to set the new slug here accordingly.
 
-**Be careful** if you change the actual slug of the parent-page! Then you need to set the new slug here accordingly.
-
-#### `status`
+___status___
 Sets the status pof the auto-published page. Available options:
 `unlisted`
 `listed`
