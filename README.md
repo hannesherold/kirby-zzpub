@@ -34,7 +34,7 @@ Use the following options in your `config.php`:
 
 
 ```php
-'hherold.zack' => [
+'hherold.zzpub' => [
    'autoPublish' => true,		// default: false
    'parent'      => 'database',		// default: false
    'status'      => 'unlisted'		// default: listed
