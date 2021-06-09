@@ -38,7 +38,7 @@ Use the following options in your `config.php`:
 ```php
 'hherold.zzpub' => [
    'autoPublish' => true,
-   'parent'      => 'database',
+   'parent'      => 'data',
    'status'      => 'unlisted'
 ]
 ```
